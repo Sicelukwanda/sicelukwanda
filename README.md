@@ -4,7 +4,7 @@ I do research at the intersection between Robotics and Machine Learning, working
 
 - 🔭 I'm a PhD student at University College London, under the supervision of Prof. [Marc Deisenroth](https://www.deisenroth.cc).
 - 📑 I’m currently looking at ways to incorporate safety constraints into probabilistic models for planning in high-dimensional robot systems.
-- 🌱 I'm helping build a community of researchers and professionals in robotics and machine learning on the African continent. _See our Robot Learning workshops:_ [2023](https://sites.google.com/view/robotlearning4africa/home) and [2024](https://sites.google.com/view/robotlearningforafrica2024).
+- 🌱 I'm helping build a community of researchers and professionals in robotics and machine learning on the African continent. _See our Robot Learning workshops:_ [2023](https://sites.google.com/view/robotlearning4africa/home) and [2024](https://sites.google.com/view/robotlearning4africa-2024).
 
 💬 If you have any questions, please [reach out](mailto:sicelukwanda.zwane.20@ucl.ac.uk) 😃!
 
